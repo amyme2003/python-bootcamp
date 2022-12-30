@@ -1,0 +1,79 @@
+# Program to make a simple calculator to carry out the necessary mathematical calculations like:
+# ADDITION
+# SUBSTRACTION
+# MULTIPLICATION
+# DIVISION
+# EXPONENTIAL
+# FLOOR DIVISION
+# REMAINDER
+
+def add(x,y):
+    return x+y
+    
+def substract(x,y):
+    return x-y
+    
+def multiply(x,y):
+    return x*y
+
+def divide(x,y):
+    return x/y
+    
+def exponent(x,y):
+    return x**y
+    
+def floordiv(x,y):
+    return x//y
+    
+def remainder(x,y):
+    return x%y
+    
+print("MENU")
+print("OPERATIONS PERFORMED")
+print("1. ADDITION")
+print("2. SUBSTRACTION")
+print("3. MULTIPLICATION")
+print("4. DIVISION")
+print("5. EXPONENTIAL")
+print("6. FLOOR DIVISION")
+print("7. REMAINDER")
+
+while True:
+    choice = input("Enter your choice [1/2/3/4/5/6/7]:")
+    if choice in ('1','2','3','4','5','6','7'):
+        first = int(input("Enter first number:")
+        second = int(input("Enter second number:")
+        
+        if choice == '1':
+            print(first, "+", second, "=", add(first,second))
+            
+        elif choice == '2':
+            print(first, "-", second, "=", substract(first,second))
+            
+        elif choice == '3':
+            print(first, "*", second, "=", multiply(first,second))
+            
+        elif choice == '4':
+            print(first, "/", second, "=", divide(first,second))
+            
+        elif choice == '5':
+            print(first, "**", second, "=", exponent(first,second))
+            
+        elif choice == '6':
+            print(first, "//", second, "=", floordiv(first,second))
+            
+        elif choice == '7':
+            print(first, "%", second, "=", remainder(first,second))
+            
+        next_calc = input("Can we proceed to next calculation? (yes/no):")
+        if next_calc == "no":
+            break
+    else:
+        print("INVALID INPUT")
+        
+        
+        
+        
+        
+        
+            
