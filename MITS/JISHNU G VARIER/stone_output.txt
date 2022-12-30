@@ -1,0 +1,47 @@
+Rock-Paper-Scissors Game!!!
+There are 3 choices:
+  'R' for Rock
+  'P' for Paper
+  'S' for Scissors
+Enter 'Q' to quit the game.
+
+Enter your choice: R
+Computer move= P
+computer scored 1
+
+Enter your choice: P
+Computer move= R
+you scored 1
+
+Enter your choice: R
+Computer move= S
+you scored 1
+
+Enter your choice: S
+Computer move= R
+computer scored 1
+
+Enter your choice: P
+Computer move= S
+computer scored 1
+
+Enter your choice: P
+Computer move= S
+computer scored 1
+
+Enter your choice: S
+Computer move= P
+you scored 1
+
+Enter your choice: P
+Computer move= S
+computer scored 1
+
+Enter your choice: S
+Computer move= R
+computer scored 1
+
+Enter your choice: Q
+The computer wins!
+Your score is 3 and computer score is 6
+Thank you...Exit
