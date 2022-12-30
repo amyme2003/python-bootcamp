@@ -1,0 +1,36 @@
+Enter the 1st number: 4
+Enter the 2nd number: 7
+Enter any one of these operators( + , - , * , / ): 
++ for Addition
+- for Subtraction
+* for Multiplication
+/ for Division
+
+
++
+Addition of numbers=  11
+Do you want to continue the operations? say 'y' for YES or 'n' for NO...
+y
+Enter any one of these operators( + , - , * , / ): 
++ for Addition
+- for Subtraction
+* for Multiplication
+/ for Division
+
+
+*
+Multiplication of numbers=  28
+Do you want to continue the operations? say 'y' for YES or 'n' for NO...
+y
+Enter any one of these operators( + , - , * , / ):
++ for Addition
+- for Subtraction
+* for Multiplication
+/ for Division
+
+
+-
+Subtraction of numbers=  -3
+Do you want to continue the operations? say 'y' for YES or 'n' for NO...
+n
+Exited...
