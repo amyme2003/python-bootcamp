@@ -1,0 +1,61 @@
+#rockpaper 
+Lets play Rock-Paper-Scissors
+Enter your choice
+  'R' for Rock
+  'P' for Paper
+  'S' for Scissors
+Enter 'Q' to quit the game.
+
+Enter your move: R
+Computer move= R
+It's a tie!
+
+Enter your move: P
+Computer move= P
+It's a tie!
+
+Enter your move: R
+Computer move= S
+you score 1
+
+Enter your move: S
+Computer move= R
+computer score 1
+
+Enter your move: 4
+Computer move= S
+Invalid move. Please try again.
+
+
+#pattern
+
+Enter number of rows: 6
+1
+22
+333
+4444
+55555
+666666
+
+#calculator
+CALCULATOR
+1.ADDITION
+2.SUBTRACTION
+3.MULTIPLY
+4.DIVIDE
+Enter your choice from the keyboard 4
+Enter the 1st number4
+Enter the 2nd number2
+Quotient is =  2.0
+Enter your choice from the keyboard 1
+Enter the 1st number2
+Enter the 2nd number3
+Sum of two numbers is =  5
+Enter your choice from the keyboard 2
+Enter the 1st number4
+Enter the 2nd number5
+Difference of two numbers is =  -1
+Enter your choice from the keyboard 3
+Enter the 1st number4
+Enter the 2nd number6
+Product of two numbersb is =  24
